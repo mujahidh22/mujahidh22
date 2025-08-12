@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Mujahid Hussain, a frontend developer from New Delhi, India. <br><br>I had done my B.Tech in ECE (AI & ML).
+Hi there! My name is Mujahid Hussain, a Full-Stack developer from New Delhi, India. <br><br>I had done my B.Tech in ECE (AI & ML).
 
 
 ## 🌐 Socials:
